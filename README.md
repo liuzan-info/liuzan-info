@@ -8,4 +8,3 @@ I'm Liu Zan, a postgraduate student from XiaMen, China.
 - 😄 Pronouns: he/him
 
 ![](https://readmestats.999857.xyz/api?username=liuzan-info) 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
