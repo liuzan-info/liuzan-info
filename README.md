@@ -7,5 +7,5 @@ I'm Liu Zan, a postgraduate student from XiaMen, China.
 - 🌱 Learning statistics and deep Learning
 - 😄 Pronouns: he/him
 
-![](https://readmestats.999857.xyz/api?username=liuzan-info) ![Top Languages](https://readmestats.999857.xyz/api/top-langs/?username=liuzan-info)
+![](https://readmestats.999857.xyz/api?username=liuzan-info) 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
