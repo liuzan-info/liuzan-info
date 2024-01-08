@@ -8,3 +8,4 @@ I'm Liu Zan, a postgraduate student from XiaMen, China.
 - 😄 Pronouns: he/him
 
 ![](https://readmestats.999857.xyz/api?username=liuzan-info) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuzan-info)](https://github.com/anuraghazra/github-readme-stats)
